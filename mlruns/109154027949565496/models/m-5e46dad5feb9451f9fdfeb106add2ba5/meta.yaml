@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ITI_Ai_Intake46/ML/Project/mlruns/109154027949565496/models/m-5e46dad5feb9451f9fdfeb106add2ba5/artifacts
+creation_timestamp: 1772315041914
+experiment_id: '109154027949565496'
+last_updated_timestamp: 1772315047523
+model_id: m-5e46dad5feb9451f9fdfeb106add2ba5
+model_type: null
+name: model_random-forest
+source_run_id: 027a13b079624f2688d0503a7fe8347f
+status: 2
+status_message: null

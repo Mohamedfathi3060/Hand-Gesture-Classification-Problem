@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ITI_Ai_Intake46/ML/Project/mlruns/109154027949565496/models/m-0e6415794cc943328b70ac4db92aa3bb/artifacts
+creation_timestamp: 1772315050444
+experiment_id: '109154027949565496'
+last_updated_timestamp: 1772315056935
+model_id: m-0e6415794cc943328b70ac4db92aa3bb
+model_type: null
+name: model_xgboost
+source_run_id: 0ca3b5af9e234e7fb6c745fbc469e403
+status: 2
+status_message: null

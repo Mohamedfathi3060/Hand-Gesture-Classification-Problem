@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ITI_Ai_Intake46/ML/Project/mlruns/109154027949565496/20231f2cc1644556a00c0f6d1df53c2b/artifacts
+end_time: 1772315060149
+entry_point_name: ''
+experiment_id: '109154027949565496'
+lifecycle_stage: active
+run_id: 20231f2cc1644556a00c0f6d1df53c2b
+run_name: model-comparison
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772315059723
+status: 3
+tags: []
+user_id: moham

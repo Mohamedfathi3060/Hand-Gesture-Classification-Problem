@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ITI_Ai_Intake46/ML/Project/mlruns/109154027949565496/027a13b079624f2688d0503a7fe8347f/artifacts
+end_time: 1772315047563
+entry_point_name: ''
+experiment_id: '109154027949565496'
+lifecycle_stage: active
+run_id: 027a13b079624f2688d0503a7fe8347f
+run_name: random-forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772315039575
+status: 3
+tags: []
+user_id: moham
